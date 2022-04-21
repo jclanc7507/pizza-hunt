@@ -1,5 +1,5 @@
 const { Pizza } = require('../models');
-//18.1.7
+
 const pizzaController = {
   
   // gets all pizzas
